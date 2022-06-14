@@ -23,7 +23,7 @@ class Config(object):
 Hi Unkil, I am Video Merge Bot!
 I can Merge Multiple Videos in One Video. Video Formats should be same.
 
-Made by @ashishsharmalegend
+Made by @ashishsharmalegend ❤
 """
     CAPTION = "Video Merged by @{}\n\nMade by @ashishsharmalegend"
     PROGRESS = """
